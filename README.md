@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Milne-D1/com682/_apis/build/status/daniellemilne.js-e2e-express-server?branchName=main)](https://dev.azure.com/Milne-D1/com682/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
